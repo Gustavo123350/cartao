@@ -1,0 +1,36 @@
+body{
+    background-image: url('/image/papel.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.relojo{
+    text-align:center;
+    font-style: initial;
+    color:darkmagenta;
+    font-size: 6%;
+} 
+.perfil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/image/perfil.gif');
+    border-radius: 50%;
+    border: 2px;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    background-size: cover;
+}
+.icon-container{
+    color: darkmagenta;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+
+
+}
